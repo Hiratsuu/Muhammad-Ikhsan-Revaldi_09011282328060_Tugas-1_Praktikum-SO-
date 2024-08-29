@@ -11,3 +11,6 @@ hijau saja).
 
 * tentukan hard disk virtual.
 ![menentukan hard disk virtual](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(3).png?raw=true)
+
+* Setelah itu nanti akan muncul ringkasan seperti ini lalu tekan selesai.
+![Ringkasan](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(4).png?raw=true)
