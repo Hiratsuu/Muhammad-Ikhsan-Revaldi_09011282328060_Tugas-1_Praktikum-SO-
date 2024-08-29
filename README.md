@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/90f6d0e4-ccb4-4a71-982a-fc83026f4191)# TUGAS 1 SISTEM OPERASI
+# TUGAS 1 SISTEM OPERASI
 
 ## Proses Instalasi
 
