@@ -18,5 +18,5 @@ hijau saja).
 * Bukalah pengaturan setelah Anda membuat virtual machinenya.
 ![Gambar 5](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(5).png?raw=true)
 
-*Buka pada bagian tampilan lalu ubah memori video nya menjadi 128mb 
+* Buka pada bagian tampilan lalu ubah memori video nya menjadi 128mb 
 ![Gambar 6](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(6).png?raw=true)
