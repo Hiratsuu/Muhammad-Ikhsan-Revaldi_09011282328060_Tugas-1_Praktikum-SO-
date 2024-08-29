@@ -10,4 +10,4 @@ hijau saja).
 ![Gambar menentukan memori dasar dan core](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(2).png?raw=true)
 
 * tentukan hard disk virtual.
-! [menentukan hard disk virtual](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(3).png?raw=true)
+![menentukan hard disk virtual](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(3).png?raw=true)
