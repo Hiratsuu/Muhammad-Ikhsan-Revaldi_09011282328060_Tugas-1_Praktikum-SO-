@@ -19,4 +19,4 @@ hijau saja).
 ![Buka pengaturan untuk mengatur](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(5).png?raw=true)
 
 *Buka pada bagian tampilan lalu ubah memori video nya menjadi 128mb 
-!(https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(6).png?raw=true)
+! (https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(6).png?raw=true)
