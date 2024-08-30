@@ -46,7 +46,7 @@ hijau saja).
 * Tentukan lokasi Anda lalu klik “Continue” pada bagian ini.
 ![Gambar 15](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(15).png?raw=true)
 
-* Setelah itu buatlah nama, Username  serta password Anda. Jika Anda ingin memberi password. Jika tidak maka Anda bisa menekan login automatically. Perlu diperhatikan bahwa jika Anda melakukan login automatically maka proses login menggunakan username dan password akan di tiadakan dan langsung masuk ke dalam linux.
+* Setelah itu buatlah nama, Username  serta password Anda jika Anda ingin memberi password. Jika tidak ingin maka Anda bisa menekan login automatically. Perlu diperhatikan bahwa jika Anda melakukan login automatically maka proses login menggunakan username dan password akan di tiadakan dan langsung masuk ke dalam linux.
 ![Gambar 16](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(16).png?raw=true)
 
 * Setelah Anda menekan continue pada step sebelumnya maka pada bagian ini Anda hanya tinggal menunggu sampai proses penginstalan selesai.
