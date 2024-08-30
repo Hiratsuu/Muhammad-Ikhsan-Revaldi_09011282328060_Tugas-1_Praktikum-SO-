@@ -68,9 +68,9 @@ hijau saja).
 
 **Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs**
 **Jawab:** 
-*	Ext4 adalah sistem file pada linux yang mendukung ukuran file besar serta cepat dan memiliki fitur journaling untuk mencegah kerusakan data.
-*	Ext3 merupakan versi lama dari Ext4 yang dimana fungsinya juga sama namun lebih lambat dan memiliki batasan ukuran.
-*	Swap merupakan partisi linux yang digunakan sebagai memori virtual ketika RAM penuh dan membantu kinerja sistem saat kehabisan memori.
+*	Ext4 adalah sistem file pada linux yang mendukung ukuran file besar hingga 16TB dengan ukuran maksimal partisi bisa mencapai 1 EB (Exabyte) serta cepat dan memiliki fitur journaling untuk mencegah kerusakan data.
+*	Ext3 merupakan versi lama dari Ext4 yang dimana fungsinya juga sama namun lebih lambat dan memiliki batasan ukuran maksimal hanya sekitar 2TB serta ukuran partisi hingga 16TB.
+*	Swap merupakan ruang disk yang digunakan Linux sebagai memori virtual tambahan ketika RAM fisik telah habis. namun, penggunaan swap dapat memperlambat kinerja sistem karena kecepatan disk lebih lambat dibandingkan RAM. Tetapi ini bisa mencega terjadinya crash ketika memori habis.
 *	Ntfs adalah sistem file untuk windows yang mendukung file besar, journaling dan fitur keamanan, namun tidak sepenuh nya didukung linux tanpa perangkat              lunak tambahan.
-*	Fat32 merupakan sistem file yang kompatibel yang digunakan di banyak perangkat dan sistem operasi tetapi memiliki batasan ukuran file yang batas                    maksimalnya hanya 4GB.
-*	Btrfs merupakan sistem file di linux dengan fitur snapshot dan manajemen data yang efisien, namun masih kurang stabil jika dibandingkan dengan ext4 untuk           penggunaan dengan skala yang besar.
+*	Fat32 merupakan sistem file yang kompatibel yang digunakan di banyak perangkat dan sistem operasi tetapi memiliki batasan ukuran file yang batas                    maksimalnya hanya 4GB dan partisi maksimal hanya 2TB
+*	Btrfs merupakan sistem file di linux dengan fitur snapshot dan manajemen data yang efisien, namun masih kurang stabil jika dibandingkan dengan ext4 untuk           penggunaan dengan skala yang besar. Btrfs ini dirancang untuk mendukung penyimpanan data dalam skala besar dan menawarkan kemampuan untuk menangani berbagai tipe data dengan efisiensi tinggi.
