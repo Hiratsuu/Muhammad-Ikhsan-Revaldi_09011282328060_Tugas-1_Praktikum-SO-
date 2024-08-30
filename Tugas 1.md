@@ -60,3 +60,17 @@ hijau saja).
 
 * Proses Instalasi selesai.
 ![Gambar 20](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(20).png?raw=true)
+
+# Tugas 2
+
+**Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ?**
+**Jawab:** Karena simbol “/” atau yang di sebut dengan root ini berfungsi sebagai direktori yang menyimpan segala file esensial dalam linux.
+
+**Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs**
+**Jawab:** 
+*	Ext4 adalah sistem file pada linux yang mendukung ukuran file besar serta cepat dan memiliki fitur journaling untuk mencegah kerusakan data.
+*	Ext3 merupakan versi lama dari Ext4 yang dimana fungsinya juga sama namun lebih lambat dan memiliki batasan ukuran.
+*	Swap merupakan partisi linux yang digunakan sebagai memori virtual ketika RAM penuh dan membantu kinerja sistem saat kehabisan memori.
+*	Ntfs adalah sistem file untuk windows yang mendukung file besar, journaling dan fitur keamanan, namun tidak sepenuh nya didukung linux tanpa perangkat              lunak tambahan.
+*	Fat32 merupakan sistem file yang kompatibel yang digunakan di banyak perangkat dan sistem operasi tetapi memiliki batasan ukuran file yang batas                    maksimalnya hanya 4GB.
+*	Btrfs merupakan sistem file di linux dengan fitur snapshot dan manajemen data yang efisien, namun masih kurang stabil jika dibandingkan dengan ext4 untuk           penggunaan dengan skala yang besar.
