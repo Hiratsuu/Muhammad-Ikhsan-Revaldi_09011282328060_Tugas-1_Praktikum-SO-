@@ -2,7 +2,7 @@
 
 ## Proses Instalasi
 
-Buatlah profil nama dan sistem operasi virtualnya.
+* Buatlah profil nama dan sistem operasi virtualnya.
 ![Gambar 1](https://github.com/Hiratsuu/Muhammad-Ikhsan-Revaldi_09011282328060_Tugas-1_Praktikum-SO-/blob/main/Gambar%20(1).png?raw=true)
 
 * Tentukanlah memori dasar dan core nya (disarankan untuk menentukannya pada area 
